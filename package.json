@@ -1,6 +1,6 @@
 {
   "name": "@chenbo860826/wrap-cache",
-  "version": "1.0.2",
+  "version": "1.0.0",
   "description": "wrap interface into cached interface",
   "main": "index.js",
   "scripts": {
