@@ -1,0 +1,11 @@
+{
+  "name": "@chenbo860826/wrap-cache",
+  "version": "1.0.1",
+  "description": "wrap interface into cached interface",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "chenbo860826",
+  "license": "ISC"
+}
